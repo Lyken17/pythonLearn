@@ -1,0 +1,8 @@
+strlen:     ADD     $t0 ,$zero ,$zero     #m=0
+RO:         add 	$t1 ,$t0 ,$a0          #&u[m]
+			beq   	$t1, $zero, exit
+exit:       lw 		$s1, 0x10($a0)     #u[m]
+
+
+
+

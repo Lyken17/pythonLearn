@@ -1,0 +1,441 @@
+1
+00:00:00,024 --> 00:00:03,047
+have you ever been in an argument about
+nuclear power
+
+2
+00:00:03,047 --> 00:00:06,336
+we have and we found it frustrating and
+confusing
+
+3
+00:00:06,759 --> 00:00:09,780
+so let's try and get to grips with this
+topic wall
+
+4
+00:00:09,969 --> 00:00:14,044
+done
+
+5
+00:00:14,719 --> 00:00:17,758
+of it all started in the nineteen
+forties
+
+6
+00:00:18,109 --> 00:00:21,135
+after the shock and horror the wall in
+the use of the atomic bomb
+
+7
+00:00:21,369 --> 00:00:25,080
+nuclear energy promise to be a peaceful
+spinoff love the new technology
+
+8
+00:00:25,008 --> 00:00:28,027
+helping the world get back on its feet
+everyone's
+
+9
+00:00:28,099 --> 00:00:31,190
+imagination was running wild would an
+atrocity become frame
+
+10
+00:00:32,009 --> 00:00:36,023
+could nuclear power help settle the
+antarctic would there be nuclear powered
+
+11
+00:00:36,149 --> 00:00:36,800
+cars
+
+12
+00:00:36,008 --> 00:00:41,030
+planes all houses it seems that this was
+just a few years of hard work away
+
+13
+00:00:42,002 --> 00:00:45,017
+one thing was certain: the future was
+
+14
+00:00:45,017 --> 00:00:49,078
+atomic just a few years later there was
+a sort of Atomic Age Hanover
+
+15
+00:00:49,078 --> 00:00:52,747
+as it turned out nuclear power was a
+very complicated
+
+16
+00:00:53,449 --> 00:00:56,660
+and very expensive turning physics into
+
+17
+00:00:56,066 --> 00:00:59,117
+engineering was easy on paper but hard
+in real life
+
+18
+00:01:00,017 --> 00:01:03,866
+also private companies thought the
+nuclear power was much too risky
+
+19
+00:01:04,019 --> 00:01:07,340
+as an investment most of them would much
+rather stick with gas
+
+20
+00:01:07,034 --> 00:01:10,117
+coal and oil but there were many people
+who didn't just want to abandon the
+
+21
+00:01:11,017 --> 00:01:12,396
+promise of the Atomic Age
+
+22
+00:01:12,549 --> 00:01:16,020
+an exciting new technology the prospect
+to enormously cheap
+
+23
+00:01:16,002 --> 00:01:20,024
+electricity the prospective being
+independent oil and gas imports
+
+24
+00:01:20,024 --> 00:01:23,333
+and in some cases a secret desire to
+possess
+
+25
+00:01:23,549 --> 00:01:27,700
+atomic weapons provided a strong
+motivation to keep going
+
+26
+00:01:27,007 --> 00:01:31,386
+nuclear power supply finest hour finally
+came in the early nineteen seventies
+
+27
+00:01:32,079 --> 00:01:36,108
+when war in the Middle East caused oil
+prices to skyrocket worldwide
+
+28
+00:01:36,369 --> 00:01:39,423
+now commercial interest and investment
+picked up on it.
+
+29
+00:01:39,909 --> 00:01:43,670
+dazzling pace more than harmful all the
+nuclear reactors in the world
+
+30
+00:01:43,067 --> 00:01:48,126
+were built between 1970 in 1985 but
+which typeof reacted to build
+
+31
+00:01:48,729 --> 00:01:51,800
+given how many different types there
+were to choose from a surprising
+
+32
+00:01:52,439 --> 00:01:54,270
+underdog candidate won the day
+
+33
+00:01:54,027 --> 00:01:57,031
+the light water reactor it wasn't very
+innovative
+
+34
+00:01:57,067 --> 00:02:00,122
+and it wasn't too popular with
+scientists but it had some decisive
+
+35
+00:02:01,022 --> 00:02:01,106
+advantages
+
+36
+00:02:02,006 --> 00:02:06,065
+it was there it works and it wasn't
+terribly expensive
+
+37
+00:02:06,119 --> 00:02:09,690
+so what does a light-water reactor do
+well
+
+38
+00:02:09,069 --> 00:02:12,094
+the basic principle is shockingly simple
+it heats up water
+
+39
+00:02:12,094 --> 00:02:16,176
+using an artificial chain reaction
+nuclear fission releases several million
+
+40
+00:02:17,076 --> 00:02:19,084
+times more energy than any chemical
+reaction could
+
+41
+00:02:20,056 --> 00:02:24,069
+rainy heavy elements on the brink of
+stability like uranium 235
+
+42
+00:02:24,069 --> 00:02:27,115
+get bombarded with neutrons the neutron
+is absorbed
+
+43
+00:02:28,015 --> 00:02:31,037
+but the resulting is unstable most to
+the time
+
+44
+00:02:31,037 --> 00:02:34,085
+it immediately spits into fast-moving
+blaze ornaments some
+
+45
+00:02:34,085 --> 00:02:37,814
+additional free neutrons and energy in
+the form of radiation
+
+46
+00:02:38,579 --> 00:02:42,250
+the radiation heats the surrounding
+water while the neutrons repeat the
+
+47
+00:02:42,025 --> 00:02:42,100
+process with
+
+48
+00:02:43,000 --> 00:02:47,359
+other items releasing more neutrons and
+radiation in a closely controlled chain
+
+49
+00:02:47,359 --> 00:02:47,425
+reaction
+
+50
+00:02:48,019 --> 00:02:51,072
+very different from the fast destructive
+runaway reaction
+
+51
+00:02:51,549 --> 00:02:55,030
+in an atomic bomb in our light-water
+reactor
+
+52
+00:02:55,003 --> 00:02:58,832
+a moderator is needed to control the
+neutrons energy simple
+
+53
+00:02:58,859 --> 00:03:02,900
+ordinary water does the job which is
+very practical since water is used right
+
+54
+00:03:02,009 --> 00:03:03,064
+the turbines anyway
+
+55
+00:03:04,045 --> 00:03:07,097
+the light water reactor became prevalent
+because it's simple and cheap
+
+56
+00:03:07,097 --> 00:03:10,109
+however it's neither the safest most
+efficient
+
+57
+00:03:11,009 --> 00:03:15,025
+know technically elegant nuclear reactor
+the renewed nuclear Hyde
+
+58
+00:03:15,025 --> 00:03:18,066
+lasted barely a decade though in 1979
+
+59
+00:03:18,066 --> 00:03:21,127
+the Three Mile Island nuclear plant in
+Pennsylvania barely escaped a
+
+60
+00:03:22,027 --> 00:03:22,106
+catastrophe
+
+61
+00:03:23,006 --> 00:03:27,050
+when it's called mounted in 1986 the
+Chernobyl catastrophe directly
+
+62
+00:03:27,005 --> 00:03:29,044
+threatened Central Europe with a
+radioactive cloud
+
+63
+00:03:29,089 --> 00:03:33,158
+banded 2011 the drawn-out Fukushima
+disaster sparks new discussions and
+
+64
+00:03:34,058 --> 00:03:34,136
+concerns
+
+65
+00:03:35,036 --> 00:03:40,071
+while in the nineteen eighties 218 new
+nuclear power reactors went live
+
+66
+00:03:40,071 --> 00:03:43,157
+their number and nucleus global share of
+the electricity production
+
+67
+00:03:44,057 --> 00:03:47,059
+has stagnated since the end of the
+eighties
+
+68
+00:03:47,059 --> 00:03:50,059
+so what's the situation today today
+
+69
+00:03:50,059 --> 00:03:53,157
+nuclear energy meets around 10 percent
+to the world's energy demand
+
+70
+00:03:54,057 --> 00:03:57,064
+that are about 439 nuclear reactors
+
+71
+00:03:57,064 --> 00:04:02,067
+in 31 countries about 70 new reactors
+under construction in 2015
+
+72
+00:04:02,067 --> 00:04:05,108
+most at the main countries which are
+growing quickly all in all
+
+73
+00:04:06,008 --> 00:04:09,059
+160 new reactors are planned worldwide
+
+74
+00:04:09,059 --> 00:04:12,082
+most nuclear reactors will build more
+than 25 years ago
+
+75
+00:04:12,082 --> 00:04:15,117
+with pretty old technology more than
+eighty percent
+
+76
+00:04:16,017 --> 00:04:17,073
+are various times in life
+
+77
+00:04:17,073 --> 00:04:20,168
+water reactor today many countries are
+faced with the choice
+
+78
+00:04:21,068 --> 00:04:25,093
+the expensive replacement of the aging
+reactors possibly with more efficient
+
+79
+00:04:25,093 --> 00:04:25,121
+but
+
+80
+00:04:26,021 --> 00:04:29,059
+last tested models or a move away from
+nuclear power
+
+81
+00:04:29,059 --> 00:04:32,078
+towards Newark or older technology was
+different cost
+
+82
+00:04:32,078 --> 00:04:36,096
+and environmental impacts so should we
+use nuclear energy
+
+83
+00:04:36,096 --> 00:04:40,112
+the pro and contra arguments will be
+presented him next week
+
+84
+00:04:41,012 --> 00:04:46,028
+subscribe and then you won't miss it our
+channel has a new sponsor
+
+85
+00:04:46,028 --> 00:04:50,074
+or to Bordeaux com if you use the URL
+audible dot com slash nutshell
+
+86
+00:04:50,074 --> 00:04:53,100
+you can get a free audiobook and support
+our channel
+
+87
+00:04:54,000 --> 00:04:57,001
+producing how videos takes lot of time
+
+88
+00:04:57,001 --> 00:05:00,023
+and we feel a lot of this by listening
+to audiobooks
+
+89
+00:05:00,023 --> 00:05:04,040
+for ready entertaining book we recommend
+into the net by Jon Krakauer
+
+90
+00:05:04,004 --> 00:05:07,069
+he's a great writer and the story is
+really absorbing and true
+
+91
+00:05:08,005 --> 00:05:11,089
+go to audible dot com slash nutshell to
+get the book for free
+
+92
+00:05:11,089 --> 00:05:14,151
+thanks a lot to audible for supporting
+our channel and to you for watching
+
